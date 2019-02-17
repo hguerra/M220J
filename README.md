@@ -1,6 +1,4 @@
-================
-Welcome to M220J
-================
+# Welcome to M220J
 
 In this course we will be exploring how to use MongoDB in the Java environment.
 We will be looking into:
